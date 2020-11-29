@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lab03-OMSApp/Lab03-OMSApp.iml" filepath="$PROJECT_DIR$/Lab03-OMSApp/Lab03-OMSApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab03-OMSVirtualServer/Lab03-OMSVirtualServer.iml" filepath="$PROJECT_DIR$/Lab03-OMSVirtualServer/Lab03-OMSVirtualServer.iml" />
+    </modules>
+  </component>
+</project>
